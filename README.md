@@ -46,7 +46,6 @@ while True:
 # server:
  ![alt text](<Screenshot 2026-03-15 231814.png>)
 # client:
- ![alt text](<Screenshot 2026-03-15 232403.png>)
-  
+![alt text](<Screenshot 2026-03-15 231900.png>)
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
